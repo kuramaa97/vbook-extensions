@@ -291,6 +291,28 @@
       "description": "Đọc Mato Seihei no Slave trên MatoDex",
       "type": "comic",
       "locale": "vi_VN"
+    },
+    {
+      "name": "Lướt Truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/luottruyen/plugin.zip",
+      "version": 1,
+      "source": "https://luottruyen.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/luottruyen/icon.png",
+      "description": "Đọc truyện trên trang Lướt Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Novel Updates",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/novelupdates/plugin.zip",
+      "version": 1,
+      "source": "https://www.novelupdates.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/novelupdates/icon.png",
+      "description": "Catalog & tracker for translated novels",
+      "type": "novel",
+      "locale": "en"
     }
   ]
 }
