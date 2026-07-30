@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "name": "Novel Updates",
+    "author": "vBook",
+    "version": 1,
+    "source": "https://www.novelupdates.com",
+    "description": "Catalog & tracker for translated novels",
+    "locale": "en",
+    "regexp": "www\\.novelupdates\\.com/series/[^/]+/?$",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://www.novelupdates.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

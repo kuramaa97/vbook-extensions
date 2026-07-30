@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "name": "Lướt Truyện",
+    "author": "vBook",
+    "version": 1,
+    "source": "https://luottruyen.com",
+    "description": "Đọc truyện trên trang Lướt Truyện",
+    "locale": "vi_VN",
+    "regexp": "luottruyen\\d*\\.(com|vn|net)/truyen-tranh/[^/]+/?$",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Domain",
+      "default": "https://luottruyen14.com",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}
