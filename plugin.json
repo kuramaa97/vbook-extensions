@@ -313,6 +313,17 @@
       "description": "Catalog & tracker for translated novels",
       "type": "novel",
       "locale": "en"
+    },
+    {
+      "name": "Manga Katana",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/kuramaa97/vbook-extensions/refs/heads/master/mangakatana/plugin.zip",
+      "version": 1,
+      "source": "https://mangakatana.com",
+      "icon": "https://raw.githubusercontent.com/kuramaa97/vbook-extensions/refs/heads/master/mangakatana/icon.png",
+      "description": "Read manga on Manga Katana",
+      "type": "comic",
+      "locale": "en"
     }
   ]
 }
