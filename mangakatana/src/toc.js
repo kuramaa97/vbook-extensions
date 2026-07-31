@@ -16,5 +16,7 @@ function execute(url) {
         });
     });
 
+    chapters.reverse();
+
     return Response.success(chapters);
 }

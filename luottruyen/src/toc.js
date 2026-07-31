@@ -34,5 +34,7 @@ function execute(url) {
 
     if (chapters.length === 0) return Response.error("Không tìm thấy chapter nào");
 
+    chapters.reverse();
+
     return Response.success(chapters);
 }
