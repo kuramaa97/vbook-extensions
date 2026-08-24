@@ -1,4 +1,4 @@
-let BASE_URL = "https://luottruyen14.com";
+let BASE_URL = "https://luottruyen.com";
 try {
     if (DOMAIN) {
         BASE_URL = DOMAIN;

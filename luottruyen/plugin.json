@@ -20,7 +20,7 @@
   "config": {
     "DOMAIN": {
       "title": "Domain",
-      "default": "https://luottruyen14.com",
+      "default": "https://luottruyen.com",
       "mode": "input",
       "format": "text"
     }
