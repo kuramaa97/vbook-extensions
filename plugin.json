@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "XTruyen",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/kuramaa97/vbook-extensions/refs/heads/master/xtruyen/plugin.zip",
+      "version": 1,
+      "source": "https://www.xtruyen.vn",
+      "icon": "https://raw.githubusercontent.com/kuramaa97/vbook-extensions/refs/heads/master/xtruyen/icon.png",
+      "description": "Doc truyen tren trang XTruyen",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Truyện TR",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyentr/plugin.zip",
